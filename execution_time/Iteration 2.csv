@@ -1,0 +1,6 @@
+delay_type,exec_time_hadoop,exec_time_hive
+CarrierDelay,0.018661512,13.668
+NASDelay,0.022053077,1.434
+WeatherDelay,0.021571838,6.349
+LateAircraftDelay,0.015923006,1.491
+SecurityDelay,0.020935749,1.303
